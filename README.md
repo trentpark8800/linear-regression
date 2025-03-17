@@ -16,3 +16,16 @@ The data as sourced from the UCI ML Library is in the `.data` format which is a 
 | model_year  | The year in which the vehicle model was produced.                                                                                                               | years (e.g., 70 = 1970) |
 | origin      | No idea what this is... Could be the origin of the vehicle, but I don't know what an origin of 1 means... Sorry.                                                | 🤷                   |
 
+## Predicted Horsepower Results
+
+The following car models are missing values for horsepower in the dataset, I did my best to lookup the actual horsepower values to check how well our model did... and just for fun.
+
+
+| Car Name                 | Model Year | Cylinders | Predicted Horsepower | Actual Horsepower | Source |
+|--------------------------|------------|-----------|----------------------|-------------------|------------------------------------------------------------------------------------------------|
+| Ford Pinto               | 1971       | 4         | 75.0                 | 75                | [Auto Evoution](https://www.autoevolution.com/cars/ford-pinto-1971.html#aeng_ford-pinto-1971-16) |
+| Ford Maverick            | 1974       | 6         | 94.5                | 82                | [Vega Dataset (GitHub)](https://github.com/vega/vega/blob/main/docs/data/cars.json) |
+| Renault LeCar Deluxe     | 1980       | 4         | 60.7                 | 55                | [Vega Dataset (GitHub)](https://github.com/vega/vega/blob/main/docs/data/cars.json) |
+| Ford Mustang Cobra       | 1980       | 4         | 95.5                 | 88                | [Vega Dataset (GitHub)](https://github.com/vega/vega/blob/main/docs/data/cars.json) |
+| Renault 18i              | 1981       | 4         | 74.0                 | 81                | [Vega Dataset (GitHub)](https://github.com/vega/vega/blob/main/docs/data/cars.json) |
+| AMC Concord DL           | 1982       | 4         | 76                 | 110                | [Wikipedia](https://en.wikipedia.org/wiki/AMC_Concord) |
