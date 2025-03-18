@@ -23,9 +23,9 @@ The following car models are missing values for horsepower in the dataset, I did
 
 | Car Name                 | Model Year | Cylinders | Predicted Horsepower | Actual Horsepower | Source |
 |--------------------------|------------|-----------|----------------------|-------------------|------------------------------------------------------------------------------------------------|
-| Ford Pinto               | 1971       | 4         | 75.0                 | 75                | [Auto Evoution](https://www.autoevolution.com/cars/ford-pinto-1971.html#aeng_ford-pinto-1971-16) |
-| Ford Maverick            | 1974       | 6         | 94.5                | 82                | [Vega Dataset (GitHub)](https://github.com/vega/vega/blob/main/docs/data/cars.json) |
-| Renault LeCar Deluxe     | 1980       | 4         | 60.7                 | 55                | [Vega Dataset (GitHub)](https://github.com/vega/vega/blob/main/docs/data/cars.json) |
-| Ford Mustang Cobra       | 1980       | 4         | 95.5                 | 88                | [Vega Dataset (GitHub)](https://github.com/vega/vega/blob/main/docs/data/cars.json) |
-| Renault 18i              | 1981       | 4         | 74.0                 | 81                | [Vega Dataset (GitHub)](https://github.com/vega/vega/blob/main/docs/data/cars.json) |
-| AMC Concord DL           | 1982       | 4         | 76                 | 110                | [Wikipedia](https://en.wikipedia.org/wiki/AMC_Concord) |
+| Ford Pinto               | 1971       | 4         | 74.1                 | 75                | [Auto Evoution](https://www.autoevolution.com/cars/ford-pinto-1971.html#aeng_ford-pinto-1971-16) |
+| Ford Maverick            | 1974       | 6         | 94.2                | 82                | [Vega Dataset (GitHub)](https://github.com/vega/vega/blob/main/docs/data/cars.json) |
+| Renault LeCar Deluxe     | 1980       | 4         | 60.4                 | 55                | [Vega Dataset (GitHub)](https://github.com/vega/vega/blob/main/docs/data/cars.json) |
+| Ford Mustang Cobra       | 1980       | 4         | 95.3                 | 88                | [Vega Dataset (GitHub)](https://github.com/vega/vega/blob/main/docs/data/cars.json) |
+| Renault 18i              | 1981       | 4         | 73.6                 | 81                | [Vega Dataset (GitHub)](https://github.com/vega/vega/blob/main/docs/data/cars.json) |
+| AMC Concord DL           | 1982       | 4         | 76.2                 | 110                | [Wikipedia](https://en.wikipedia.org/wiki/AMC_Concord) |
